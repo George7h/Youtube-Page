@@ -1,16 +1,17 @@
-.masterhead{
-    height: 56px;
-}
+
 
 p,ul,ol{width:600px;}
 
-h1,h2,h3,.section{
+h1,h2,h3,.contain1{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 50px;
+   
 }
 
-body{
-    background-color: white;
+.body1{
+    background-color: black;
     font-size: 22px;
+    
 }
