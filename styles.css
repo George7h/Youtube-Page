@@ -1,6 +1,5 @@
-img{
-    height: 300px;
-
+.masterhead{
+    height: 56px;
 }
 
 p,ul,ol{width:600px;}
@@ -12,6 +11,6 @@ h1,h2,h3,.section{
 }
 
 body{
-    background-color: black;
+    background-color: white;
     font-size: 22px;
 }
